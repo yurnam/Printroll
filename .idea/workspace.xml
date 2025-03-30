@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5dae028-e48c-4aa5-9f66-362a8cf292f9" name="Changes" comment="evil printer">
-      <change afterPath="$PROJECT_DIR$/.idea/EvilPrinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5dae028-e48c-4aa5-9f66-362a8cf292f9" name="Changes" comment="add files">
+      <change afterPath="$PROJECT_DIR$/rickroll.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/printroll.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yurnam"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yurnam/Printroll",
+    "accountId": "b8afc289-f118-4332-b8ee-7a2c3b309958"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -77,8 +86,17 @@
       <option name="presentableId" value="Default" />
       <updated>1743337780691</updated>
       <workItem from="1743337781695" duration="1767000" />
-      <workItem from="1743339556889" duration="276000" />
+      <workItem from="1743339556889" duration="876000" />
     </task>
+    <task id="LOCAL-00001" summary="add files">
+      <option name="closed" value="true" />
+      <created>1743340009939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340009939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="evil printer" />
-    <option name="LAST_COMMIT_MESSAGE" value="evil printer" />
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

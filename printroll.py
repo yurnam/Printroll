@@ -15,8 +15,9 @@ if __name__ == '__main__':
     for i in rickroll_lyrics:
         ricks_printer = evilprinter.FakePrinter()
         ricks_printer.name = i
+        ricks_printer.manufacturer = ''
         ricks_printer.location = ''
-        ricks_printer.note = 'Astley Corp'
+        ricks_printer.note = ''
         ricks_printer.publish()
 
 
